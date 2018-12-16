@@ -6,4 +6,4 @@ module.exports = {
     'kentcdodds/jest',
     'kentcdodds/react',
   ],
-}
+};
